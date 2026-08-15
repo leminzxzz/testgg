@@ -1,7 +1,7 @@
 # 👨‍💻 Vanich viriyakerkgraikul Profile | 
 ## NickName : simon  |  Student ID : 69130500057 |
 
-![image](./img/simon.jpg)
+![image](./simon.jpg)
 
 ## Personal Profile
 * **Name :** Vanich viriyakerkgraikul
