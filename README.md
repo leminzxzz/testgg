@@ -57,7 +57,7 @@
 
 ## The interviewer and first impression
 <br>**The Interview**
-* **Teerapat Pinkeaw **
+* **Teerapat Pinkeaw**
   
 <br>**Interview ID**
 * **69130500027**
