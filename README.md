@@ -73,3 +73,78 @@
 <br>
 <br>
 
+
+
+
+# 🕷️ TEERAPAT PINKEAW Profile | 
+## NickName : Boat  |  Student ID : 69130500027 |
+
+<img src="img/boat2.jpg" width="300" style="display: block; margin: ;30" >
+
+## Personal Profile
+* **Name :** Teerapat Pinkeaw  
+* **NickName :** Boat  
+* **Date of Birth :** 3 November 2007
+
+## Education
+* **King Mongkut's University of Technology Thonburi (KMUTT)** — Bachelor's Degree (Currently Studying)
+* **Watbangkhuntainnok School** — Primary School
+* **Bangmodwittaya** —   Junior High School
+
+
+## Hobby 
+**What do you like to do in your free time and why?**
+* **I watch TikTok because I can view a variety of content in a short amount of time, which helps me relax**
+
+
+## Goals & Passion  
+**What are your goals and aspirations?**
+* **My goal is to become a developer or freelancer who can work from home and learn various skills to create games as a hobby. My reason is simply that I enjoy it; if what I want to convey and the people who use my games feel the same way, that's enough to make me happy. In short, my goal is to work and earn money while staying at home, having time with my family, and living a happy and fulfilling life**
+
+
+## Quotation
+**What is your motto? What does it mean?**
+* **Discipline is the key to success. The meaning is straightforward: with discipline, one can continuously learn and improve**
+
+
+## Strength
+**What are your strengths, and what are they that you can develop further?**
+* **Having a good ability to perceive others' feelings allows you to understand what people need or feel, enabling you to find the right moment to talk or persuade them in the direction you want. This can be used in business, or even simply to listen to someone's problems and help them**
+
+
+## Weakness
+**What are your weaknesses? What problems are you facing today? What can you do about them?**
+* **Overthinking is a problem that causes anxiety or keeps dwelling on thoughts for extended periods, wasting time and increasing stress. So, what can be done? Focus on what you can control and utilize, such as viewing things from multiple perspectives, anticipating potential problems or consequences, making decisions more informed, and using worry less to create more thoughtful plans**
+
+
+## Social Media
+**Facebook :** <a href="https://www.facebook.com/share/193sv5efq1/">Boat RH</a><br>
+**Instagram:**<a href="https://www.instagram.com/boat_rh?igsh=dXhuNnAxbm1md2p6"> boat_rh</a><br>
+**GitHub :**<a href="https://github.com/BoatRH"> BoatRH</a><br>
+
+
+## How has your two weeks of studying at SIT
+* **What impressed me most was the garden/nature, because I have allergies to air pollutants, so I appreciated that this place had spots where I could breathe more comfortably. Regarding academics, I feel like I had to adjust a lot from high school, but the teachers are good in many subjects, and the social environment is great. I feel good knowing many talented friends, which allows me to learn from those around me. However, I also feel like I sometimes need to try harder to keep up**
+
+
+## Did anything happen last week that made you feel good?
+* **Last week wasn't particularly gratifying, but there were a few things that did, like getting the item I wanted from a gacha pull in a game.**
+
+## The interviewer and first impression
+**The Interview**
+* **Vanich Viriyakerkgraikul**   
+
+<br>**Interview ID**
+* **69130500057**
+
+<br>**interview's impression**  
+* **It feels good to have met Boat and to understand his thoughts better. We may not be close yet because this is our first time talking, but after learning about his story and thoughts, I believe that in future projects or when we meet again, Boat will be a good friend, someone I can trust, and with whom I can have meaningful conversations**
+
+
+---
+---
+<br>
+<br>
+<br>
+<br>
+
