@@ -50,8 +50,8 @@
 
 
 ## Social Media 
-**Facebook :**[Simon Eiei](https://www.facebook.com/share/1Jh2WFszkY/)
-**Instagram :**[kchinoz_x](https://www.instagram.com/kchinoz_x?igsh=MThob3k2amF0cXFrNg==)
+**Facebook :**[Simon Eiei](https://www.facebook.com/share/1Jh2WFszkY/)<br>
+**Instagram :**[kchinoz_x](https://www.instagram.com/kchinoz_x?igsh=MThob3k2amF0cXFrNg==)<br>
 **GitHub :**[simon36060](https://github.com/simon36060)<br>
 
 
